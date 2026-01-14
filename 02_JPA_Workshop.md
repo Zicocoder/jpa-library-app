@@ -1,6 +1,6 @@
 # Part 2: Adding AppUser and Details Entities
 
-1. Create a package for your entity models.
+1. Create a package for your entity entity.
 
 2. Create classes **AppUser** and **Details** according to Table 1.
 
